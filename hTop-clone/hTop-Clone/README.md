@@ -1,5 +1,7 @@
 # hTop-Clone
 
+A hTop like application , returns the status of the system , also the information of all the running processes and some of the specific process information
+
 ![System Monitor](images/monitor.png)
 
 ## Run the following to Install
