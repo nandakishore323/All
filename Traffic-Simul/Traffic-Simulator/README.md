@@ -6,7 +6,9 @@ Simulates the typical day-today traffic using threads , Implemented in a way whi
 
 ```
 1. git clone https://github.com/nandakishore323/All/tree/master/Traffic-Simul/Traffic-Simulator
-2. make build
-3. ./build/monitor
+2. mkdir build && cd build
+3. cmake ..
+4. make
+5. ./traffic_simulation
 ```
 
